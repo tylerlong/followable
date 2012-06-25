@@ -1,0 +1,2 @@
+require "followable"
+require "supermodel"
